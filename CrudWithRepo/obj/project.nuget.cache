@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "8PNfltChWDU=",
+  "success": false,
+  "projectFilePath": "E:\\C# Practise\\CORE\\CrudWithRepo\\CrudWithRepo\\CrudWithRepo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design"
+    }
+  ]
+}
